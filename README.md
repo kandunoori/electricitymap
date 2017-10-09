@@ -78,6 +78,7 @@ Real-time electricity data is obtained using [parsers](https://github.com/corrad
 - Italy: [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)
 - India (Andhra Pradesh): [CORE Dashboard](http://www.core.ap.gov.in/CMDashBoard/UserInterface/Power/PowerReport.aspx)
 - India (Karnataka): [kptclsldc.com](http://kptclsldc.com/StateGen.aspx)
+- India (West Bengal): [wbseb](http://www.wbseb.gov.in/)
 - India (Punjab): [punjabsldc](www.punjabsldc.org/pungenrealw.asp?pg=pbGenReal)
 - Latvia: [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)
 - Lithuania: [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)

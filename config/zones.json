@@ -795,6 +795,21 @@
       "https://github.com/blackleg"
     ]
   },
+  "IN-WB": {
+    "flag_file_name": "in.png",
+    "capacity": {
+      "hydro": 205,
+      "solar": 713,
+      "wind": 492
+    },
+    "parsers": {
+      "consumption": "IN_WB.fetch_consumption",
+      "production": "IN_WB.fetch_production"
+    },
+    "contributors": [
+      "https://github.com/kandunoori"
+    ]
+  },
   "IN-KA": {
     "flag_file_name": "in.png",
     "capacity": {
